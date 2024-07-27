@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "webApis", "webApis", "{7C038021-AAF0-4FFC-8F33-36E34AD2E414}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManagement", "webApis\TaskManagement\TaskManagement.csproj", "{6DF73E31-3210-4A5A-AAF8-20E02B0AE5C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DF73E31-3210-4A5A-AAF8-20E02B0AE5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF73E31-3210-4A5A-AAF8-20E02B0AE5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF73E31-3210-4A5A-AAF8-20E02B0AE5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF73E31-3210-4A5A-AAF8-20E02B0AE5C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6DF73E31-3210-4A5A-AAF8-20E02B0AE5C3} = {7C038021-AAF0-4FFC-8F33-36E34AD2E414}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30E6F56A-9DED-42CA-AEE6-F681C847F6BB}
+	EndGlobalSection
+EndGlobal
